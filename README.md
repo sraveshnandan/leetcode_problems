@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sraveshnandan/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sraveshnandan/leetcode_problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sraveshnandan/leetcode_problems/tree/master/0283-move-zeroes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sraveshnandan/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sraveshnandan/leetcode_problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/sraveshnandan/leetcode_problems/tree/master/0169-majority-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sraveshnandan/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -33,8 +35,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sraveshnandan/leetcode_problems/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sraveshnandan/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sraveshnandan/leetcode_problems/tree/master/0283-move-zeroes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sraveshnandan/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sraveshnandan/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sraveshnandan/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sraveshnandan/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sraveshnandan/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
