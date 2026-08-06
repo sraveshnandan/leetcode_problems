@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sraveshnandan/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sraveshnandan/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sraveshnandan/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/sraveshnandan/leetcode_problems/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sraveshnandan/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sraveshnandan/leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/sraveshnandan/leetcode_problems/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,11 +139,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sraveshnandan/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sraveshnandan/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sraveshnandan/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
